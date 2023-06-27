@@ -1,0 +1,37 @@
+{
+    "Dummy": {
+        "Full name": "name",
+        "Phone Number": "p_number",
+        "Email Id": "email",
+        "Address": "address",
+        "Password": "password"
+    },
+    "9998887771": {
+        "Full name": "Kumar",
+        "Phone Number": "9998887771",
+        "Email Id": "sdfsd",
+        "Address": "Chennai",
+        "Password": "qwer"
+    },
+    "9998887772": {
+        "Full name": "Prabhu",
+        "Phone Number": "9998887772",
+        "Email Id": "aefs",
+        "Address": "Chennai",
+        "Password": "asdf"
+    },
+    "9998887773": {
+        "Full name": "Raman",
+        "Phone Number": "9998887779",
+        "Email Id": "cscs",
+        "Address": "Bihar",
+        "Password": "zxcv"
+    },
+    "9998887774": {
+        "Full name": "vikram",
+        "Phone Number": "9998887774",
+        "Email Id": "dcsec",
+        "Address": "Bangalore",
+        "Password": "vcxz"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "dummy": {
+        "Food name": "name",
+        "Quantity": "quantity",
+        "Price": 0,
+        "Discount": 0,
+        "Stock": 0
+    },
+    "1": {
+        "Food name": "sandwitch",
+        "Quantity": "200g",
+        "Price": 25,
+        "Discount": 2,
+        "Stock": 3
+    },
+    "3": {
+        "Food name": "Pizza",
+        "Quantity": "250g",
+        "Price": 23,
+        "Discount": 1,
+        "Stock": 22
+    }
+}
